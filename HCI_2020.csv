@@ -1,0 +1,218 @@
+Country,Year,Code,HCI
+Afghanistan,2020,AFG,0.369
+Albania,2020,ALB,0.665
+Algeria,2020,DZA,0.557
+American Samoa,2020,ASM,
+Andorra,2020,AND,
+Angola,2020,AGO,0.356
+Antigua and Barbuda,2020,ATG,0.626
+Argentina,2020,ARG,0.613
+Armenia,2020,ARM,0.603
+Aruba,2020,ABW,
+Australia,2020,AUS,0.784
+Austria,2020,AUT,0.761
+Azerbaijan,2020,AZE,0.587
+"Bahamas, The",2020,BHS,
+Bahrain,2020,BHR,0.686
+Bangladesh,2020,BGD,0.478
+Barbados,2020,BRB,
+Belarus,2020,BLR,0.734
+Belgium,2020,BEL,0.772
+Belize,2020,BLZ,
+Benin,2020,BEN,0.401
+Bermuda,2020,BMU,
+Bhutan,2020,BTN,0.475
+Bolivia,2020,BOL,
+Bosnia and Herzegovina,2020,BIH,0.592
+Botswana,2020,BWA,0.44
+Brazil,2020,BRA,
+British Virgin Islands,2020,VGB,
+Brunei Darussalam,2020,BRN,0.645
+Bulgaria,2020,BGR,0.632
+Burkina Faso,2020,BFA,0.388
+Burundi,2020,BDI,0.404
+Cabo Verde,2020,CPV,
+Cambodia,2020,KHM,
+Cameroon,2020,CMR,0.397
+Canada,2020,CAN,0.81
+Cayman Islands,2020,CYM,
+Central African Republic,2020,CAF,
+Chad,2020,TCD,0.292
+Channel Islands,2020,CHI,
+Chile,2020,CHL,0.666
+China,2020,CHN,0.659
+Colombia,2020,COL,0.614
+Comoros,2020,COM,0.413
+"Congo, Dem. Rep.",2020,COD,0.368
+"Congo, Rep.",2020,COG,0.428
+Costa Rica,2020,CRI,0.643
+Cote d'Ivoire,2020,CIV,0.378
+Croatia,2020,HRV,0.739
+Cuba,2020,CUB,
+Curacao,2020,CUW,
+Cyprus,2020,CYP,0.763
+Czechia,2020,CZE,0.774
+Denmark,2020,DNK,0.774
+Djibouti,2020,DJI,
+Dominica,2020,DMA,0.577
+Dominican Republic,2020,DOM,0.523
+Ecuador,2020,ECU,0.613
+"Egypt, Arab Rep.",2020,EGY,0.514
+El Salvador,2020,SLV,0.568
+Equatorial Guinea,2020,GNQ,
+Eritrea,2020,ERI,
+Estonia,2020,EST,0.811
+Eswatini,2020,SWZ,
+Ethiopia,2020,ETH,0.384
+Faroe Islands,2020,FRO,
+Fiji,2020,FJI,0.532
+Finland,2020,FIN,0.83
+France,2020,FRA,0.781
+French Polynesia,2020,PYF,
+Gabon,2020,GAB,0.473
+"Gambia, The",2020,GMB,0.436
+Georgia,2020,GEO,0.612
+Germany,2020,DEU,0.768
+Ghana,2020,GHA,0.458
+Gibraltar,2020,GIB,
+Greece,2020,GRC,0.713
+Greenland,2020,GRL,
+Grenada,2020,GRD,0.597
+Guam,2020,GUM,
+Guatemala,2020,GTM,0.471
+Guinea,2020,GIN,0.357
+Guinea-Bissau,2020,GNB,
+Guyana,2020,GUY,0.516
+Haiti,2020,HTI,0.46
+Honduras,2020,HND,0.493
+"Hong Kong SAR, China",2020,HKG,0.848
+Hungary,2020,HUN,0.706
+Iceland,2020,ISL,0.768
+India,2020,IND,0.5
+Indonesia,2020,IDN,0.557
+"Iran, Islamic Rep.",2020,IRN,0.612
+Iraq,2020,IRQ,0.424
+Ireland,2020,IRL,0.805
+Isle of Man,2020,IMN,
+Israel,2020,ISR,0.764
+Italy,2020,ITA,0.738
+Jamaica,2020,JAM,0.562
+Japan,2020,JPN,
+Jordan,2020,JOR,0.58
+Kazakhstan,2020,KAZ,0.652
+Kenya,2020,KEN,
+Kiribati,2020,KIR,0.537
+"Korea, Dem. People's Rep.",2020,PRK,
+"Korea, Rep.",2020,KOR,0.815
+Kosovo,2020,XKX,0.584
+Kuwait,2020,KWT,0.596
+Kyrgyz Republic,2020,KGZ,0.617
+Lao PDR,2020,LAO,0.465
+Latvia,2020,LVA,0.751
+Lebanon,2017,LBN,0.537
+Lesotho,2020,LSO,
+Liberia,2020,LBR,0.324
+Libya,2020,LBY,
+Liechtenstein,2020,LIE,
+Lithuania,2020,LTU,0.756
+Luxembourg,2020,LUX,0.7
+"Macao SAR, China",2020,MAC,0.818
+Madagascar,2020,MDG,0.404
+Malawi,2020,MWI,
+Malaysia,2020,MYS,0.634
+Maldives,2020,MDV,
+Mali,2020,MLI,0.318
+Malta,2020,MLT,0.738
+Marshall Islands,2020,MHL,0.445
+Mauritania,2020,MRT,0.393
+Mauritius,2020,MUS,
+Mexico,2020,MEX,0.627
+"Micronesia, Fed. Sts.",2020,FSM,0.527
+Moldova,2020,MDA,0.607
+Monaco,2020,MCO,
+Mongolia,2020,MNG,0.636
+Montenegro,2020,MNE,0.64
+Morocco,2020,MAR,0.516
+Mozambique,2020,MOZ,
+Myanmar,2020,MMR,0.495
+Namibia,2020,NAM,
+Nauru,2020,NRU,0.531
+Nepal,2020,NPL,
+Netherlands,2020,NLD,0.807
+New Caledonia,2020,NCL,
+New Zealand,2020,NZL,0.791
+Nicaragua,2020,NIC,0.527
+Niger,2020,NER,0.313
+Nigeria,2020,NGA,0.366
+North Macedonia,2020,MKD,0.573
+Northern Mariana Islands,2020,MNP,
+Norway,2020,NOR,0.793
+Oman,2020,OMN,0.648
+Pakistan,2020,PAK,0.401
+Palau,2020,PLW,0.616
+Panama,2020,PAN,0.519
+Papua New Guinea,2020,PNG,0.429
+Paraguay,2020,PRY,0.531
+Peru,2020,PER,0.605
+Philippines,2020,PHL,0.538
+Poland,2020,POL,0.786
+Portugal,2020,PRT,0.781
+Puerto Rico,2020,PRI,
+Qatar,2020,QAT,0.67
+Romania,2020,ROU,0.611
+Russian Federation,2020,RUS,0.726
+Rwanda,2020,RWA,0.394
+Samoa,2020,WSM,0.581
+San Marino,2020,SMR,
+Sao Tome and Principe,2020,STP,
+Saudi Arabia,2020,SAU,0.595
+Senegal,2020,SEN,0.44
+Serbia,2020,SRB,0.695
+Seychelles,2020,SYC,
+Sierra Leone,2020,SLE,0.37
+Singapore,2020,SGP,0.89
+Sint Maarten (Dutch part),2020,SXM,
+Slovak Republic,2020,SVK,0.691
+Slovenia,2020,SVN,0.803
+Solomon Islands,2020,SLB,0.433
+Somalia,2020,SOM,
+South Africa,2020,ZAF,0.446
+South Sudan,2020,SSD,
+Spain,2020,ESP,0.74
+Sri Lanka,2020,LKA,
+St. Kitts and Nevis,2020,KNA,0.6
+St. Lucia,2020,LCA,0.627
+St. Martin (French part),2020,MAF,
+St. Vincent and the Grenadines,2020,VCT,0.571
+Sudan,2020,SDN,0.385
+Suriname,2020,SUR,
+Sweden,2020,SWE,0.81
+Switzerland,2020,CHE,0.765
+Syrian Arab Republic,2020,SYR,
+Tajikistan,2018,TJK,0.541
+Tanzania,2020,TZA,0.401
+Thailand,2020,THA,0.632
+Timor-Leste,2020,TLS,0.473
+Togo,2020,TGO,0.43
+Tonga,2020,TON,0.557
+Trinidad and Tobago,2020,TTO,
+Tunisia,2020,TUN,0.539
+Turkiye,2020,TUR,0.658
+Turkmenistan,2020,TKM,
+Turks and Caicos Islands,2020,TCA,
+Tuvalu,2020,TUV,0.471
+Uganda,2020,UGA,
+Ukraine,2020,UKR,0.677
+United Arab Emirates,2020,ARE,0.688
+United Kingdom,2020,GBR,0.791
+United States,2020,USA,0.72
+Uruguay,2020,URY,0.624
+Uzbekistan,2020,UZB,0.631
+Vanuatu,2020,VUT,0.468
+"Venezuela, RB",2020,VEN,
+Vietnam,2020,VNM,0.728
+Virgin Islands (U.S.),2020,VIR,
+West Bank and Gaza,2020,PSE,0.607
+"Yemen, Rep.",2020,YEM,0.367
+Zambia,2020,ZMB,
+Zimbabwe,2020,ZWE,
